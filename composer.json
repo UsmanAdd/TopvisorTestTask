@@ -1,0 +1,17 @@
+{
+    "name": "usman/topvisor-test-task",
+    "require": {
+        "google/apiclient": "^2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Usman\\TopvisorTestTask\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Usman Adzhiev",
+            "email": "34717949+UsmanAdd@users.noreply.github.com"
+        }
+    ]
+}
